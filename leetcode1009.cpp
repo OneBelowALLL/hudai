@@ -16,5 +16,4 @@ int main() {
     int ans = (~n) & mask;
     
     cout << ans << endl;
-
 }
